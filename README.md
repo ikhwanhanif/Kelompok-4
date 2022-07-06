@@ -9,8 +9,9 @@ Aplikasi Pemutar Music offline;
 Berbasis external Storage(Local) dengan perintah :
                                                     uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE";
 Tedapat fitur : 
-                Play,
-                Pause,
-                Next,
-                dan Previous;
+                Play;
+                Pause;
+                Next;
+                Previous;
+                Dan juga ketika berpindah aplikasi, music yang di putar tidak akan mati;
 Minumum SDk Android API 23:Android 6.0(Marshmallow) dan juga mengunakan Java language;
